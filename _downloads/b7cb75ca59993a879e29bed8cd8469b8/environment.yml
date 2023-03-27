@@ -1,0 +1,31 @@
+name: cantera_env
+channels:
+  - conda-forge
+  - cantera
+dependencies:
+  - ipython
+  - conda
+  - jupyter-book
+  - numpy
+  - jupyterlab=3
+  - jupyter
+  - spyder
+  - matplotlib
+  - ipympl
+  - scipy
+  - seaborn
+  - plotly
+  - pandas
+  - sympy
+  - ipywidgets
+  - cantera
+  - coolprop
+  - ipyvolume
+  - voila
+  - scipy
+  - sympy
+  - opencv
+  - progressbar2
+  - imutils
+  - bokeh
+  - jupyter_bokeh
